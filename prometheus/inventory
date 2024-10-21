@@ -1,0 +1,3 @@
+[all]
+192.168.56.13 ansible_user=catapang
+192.168.56.17 ansible_user=rcatapang
